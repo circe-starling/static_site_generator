@@ -1,0 +1,2 @@
+Matches email addresses: r"(\S+)@(\w+\.\w+)"
+Matches image links: r"!\[([^\[\]]*)\]\(([^\(\)]*)\)"
